@@ -1,0 +1,8 @@
+__pycache__
+*.dat.csv
+*.js
+app2.py
+bokeh_test.py
+*.html
+*.txt
+nuforc_reports.csv
